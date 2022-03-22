@@ -2,7 +2,7 @@
 ### HUFS 24'Brazil Studies
 ### 김희찬의 github에 오신걸 환영합니다.
 
-+ To-be-CEO
++ CEO-to-be
 + The Best or Nothing
 + Team: _멋쟁이 사자처럼 HUFS_
 
