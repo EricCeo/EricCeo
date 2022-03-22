@@ -1,7 +1,6 @@
-### Welcome Eric's Github :) 
-### 김희찬의 Github
+##### Welcome to Eric's Github :) 🔭
+##### HUFS 24'Brazil Studies
 
-### HUFS 24'Brazil Studies
 + To-be-CEO
 + The Best or Nothing
 
@@ -9,7 +8,7 @@
 '프론트엔드 개발하는 CEO'
 '기획자기반 CEO'
 
-Muito Obrigado!
+김희찬의 Github 👯
 
 
 <!--
