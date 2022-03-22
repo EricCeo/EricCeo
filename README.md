@@ -1,4 +1,13 @@
-### Hi there 👋
+### 이름: 김희찬
+
+##전공: 브라질학과(Brazil Studies)
++ To-be-CEO
+
+_뭐든 열심히_ _프론트엔드 개발하는 CEO_ _기획자기반 CEO_
+
+
+Muito Obrigado!
+
 
 <!--
 **EricCeo/EricCeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
