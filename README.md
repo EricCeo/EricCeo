@@ -1,14 +1,15 @@
-##### Welcome to Eric's Github :) 🔭
-##### HUFS 24'Brazil Studies
+### Welcome to Eric's Github :) 🔭
+### HUFS 24'Brazil Studies
+### 김희찬의 github에 오신걸 환영합니다.
 
 + To-be-CEO
 + The Best or Nothing
 
-'뭐든 열심히'
-'프론트엔드 개발하는 CEO'
-'기획자기반 CEO'
++ 저의 목표는
+`프론트엔드 기반 CEO`
+`기획자 기반 CEO`
+가 되는 것 입니다.
 
-김희찬의 Github 👯
 
 
 <!--
