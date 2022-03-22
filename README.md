@@ -1,10 +1,11 @@
-### 이름: 김희찬
+### Welcome Eric's Github :) 
+## 김희찬의 Github
 
-##전공: 브라질학과(Brazil Studies)
+## HUFS 24'Brazil Studies
 + To-be-CEO
++ The Best or Nothing
 
-_뭐든 열심히_ _프론트엔드 개발하는 CEO_ _기획자기반 CEO_
-
+'뭐든 열심히' '프론트엔드 개발하는 CEO' '기획자기반 CEO'
 
 Muito Obrigado!
 
