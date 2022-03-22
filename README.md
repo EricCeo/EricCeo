@@ -4,7 +4,7 @@
 
 + To-be-CEO
 + The Best or Nothing
-+ Team: 멋쟁이 사자처럼 HUFS
++ Team: _멋쟁이 사자처럼 HUFS_
 
 + 저의 목표는
 `프론트엔드 기반 CEO`
